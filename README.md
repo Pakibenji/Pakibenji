@@ -1,5 +1,5 @@
 # 💫 About Me:
-Développeur junior en bootcamp chez "The hacking Project"!
+Développeur junior en formation chez "The hacking Project"!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alcadebenjamin/) 
