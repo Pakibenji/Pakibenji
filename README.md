@@ -1,6 +1,5 @@
 # 💫 About Me:
-Après plusieurs années à travailler dans le commerce, j'ai décidé de devenir développeur web.                                                                                                                <br>Je suis actuellement en formation pour apprendre différents langages et<br>frameworks tels que React.js, JavaScript, Ruby on Rails.<br>En parallèle de la formation principale, j'approfondis React avec un deuxieme<br>cursus.<br>Je souhaite continuer mon apprentissage en intégrant un cursus en alternance.
-
+Développeur junior en bootcamp chez "The hacking Project"!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alcadebenjamin/) 
