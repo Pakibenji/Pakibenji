@@ -1,7 +1,7 @@
 # 💫 About Me:
 Développeur junior en formation chez "The hacking Project"!  
 
-Je suis actuellement à la recherche d'un poste de développeur junior sur  les technos javascript, react et typescript.
+Je suis actuellement à la recherche d'un poste de développeur junior sur  les technos javascript, react et typescript.  
 Mon portfolio: https://benjaminalcade.vercel.app/
 
 ## 🌐 Socials:
