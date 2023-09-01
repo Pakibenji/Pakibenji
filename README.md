@@ -1,5 +1,5 @@
 # 💫 About Me:
-Développeur junior en formation chez "The hacking Project"!  
+Développeur junior FrontEnd
 Je suis actuellement à la recherche d'un poste de développeur junior sur  les technos javascript, react et typescript.  
 
 ## 🌐 Socials:
