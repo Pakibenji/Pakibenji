@@ -1,6 +1,7 @@
 # 💫 About Me:
 Développeur FrontEnd   
-Je suis actuellement à la recherche d'un poste de développeur junior sur  les technos javascript, react et typescript.  
+Je suis actuellement à la recherche d'un poste de développeur web axé sur typescript.
+Mon objectif actuel est de monter en compétences sur les pratiques liées au software craftmanship.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alcadebenjamin/) 
